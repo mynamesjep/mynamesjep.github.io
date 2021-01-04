@@ -2,9 +2,19 @@
 
 I have been in the IT industry for almost 3 years mainly as an Application Support. I am currently working as an outsourced professional in one of the largest bank in the Philippines. In my spare time, I read books, watch videos, play games and study new skills specially in RPA technology.
 
-I have been studying RPA using UiPath for the past few months and making simple projects, even doing some freelance work in Upwork. So I choose RPA to learn because it is a new emerging technology, and many companies are gradually adapting to this. I also love automating task. On my previous job, we have so much work done manually, which makes our workload more time consuming and commit errors. Tasks were copying and pasting files to one folder to another, renaming files, encrypting files, transferring files via FTP, archiving files, etc. Being new to the team, I saw that those can be improved, so I decided to automate those tasks. 
+I have been studying RPA using UiPath for the past few months, making simple projects, even doing some freelancing work in Upwork.I chose RPA to learn because it is one of the new emerging technology, and many companies are gradually adapting using this. I also love automating task. On my previous job, we had so much work done manually, which makes our workload time consuming and commit errors. Tasks were copying and pasting files to one folder to another, renaming files, encrypting files, transferring files via FTP, archiving files, etc. Being new to the team, I saw that those can be improved, so I decided to automate those tasks. 
 
+I do freelancing job on Upwork, primarily jobs that requires scraping. Here's the link of my Upwork account:
 
+https://www.upwork.com/o/profiles/users/~0193ac2cb45b37c679/
+
+Here's sample project I made that I used in one of my freelance job in Upwork:
+
+https://www.loom.com/share/2fc6a1f55610427385e82f063d953ec4
+
+Here's also a simple sample assignment when I applied to a freelance job:
+
+https://www.loom.com/share/8a5c45774a074dde9cc1b5c52218b154
 
 You can use the [editor on GitHub](https://github.com/mynamesjep/mynamesjep.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
