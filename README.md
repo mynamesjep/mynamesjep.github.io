@@ -1,8 +1,8 @@
-## Hi, My name is Jeffrey Alcantara
+## Hi, my name is Jeffrey Alcantara
 
 I have been in the IT industry for almost 3 years mainly as an Application Support. I am currently working as an outsourced professional in one of the largest bank in the Philippines. In my spare time, I read books, watch videos, play games and study new skills specially in RPA technology.
 
-I have been studying RPA using UiPath for the past few months and making simple projects, even doing some freelance work in Upwork. So I choose RPA to learn because it is a new emerging technology, and many companies are gradually adapting to this. I also love automating task. On my previous job, we have so much work done manually
+I have been studying RPA using UiPath for the past few months and making simple projects, even doing some freelance work in Upwork. So I choose RPA to learn because it is a new emerging technology, and many companies are gradually adapting to this. I also love automating task. On my previous job, we have so much work done manually, which makes our workload more time consuming and commit errors. Tasks were copying and pasting files to one folder to another, renaming files, encrypting files, transferring files via FTP, archiving files, etc. Being new to the team, I saw that those can be improved, so I decided to automate those tasks. 
 
 
 
