@@ -6,15 +6,15 @@ I have been studying RPA using UiPath for the past few months, making simple pro
 
 I do freelancing job on Upwork, primarily jobs that requires scraping. Here's the link of my Upwork account:
 
-https://www.upwork.com/o/profiles/users/~0193ac2cb45b37c679/
+[Upwork Profile](https://www.upwork.com/o/profiles/users/~0193ac2cb45b37c679/)
 
 Here's sample project I made that I used in one of my freelance job in Upwork:
 
-https://www.loom.com/share/2fc6a1f55610427385e82f063d953ec4
+[Real State Web Scraping](https://www.loom.com/share/2fc6a1f55610427385e82f063d953ec4)
 
 Here's also a simple sample assignment when I applied to a freelance job:
 
-https://www.loom.com/share/8a5c45774a074dde9cc1b5c52218b154
+[Data Entry Sample](https://www.loom.com/share/8a5c45774a074dde9cc1b5c52218b154)
 
 You can use the [editor on GitHub](https://github.com/mynamesjep/mynamesjep.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
