@@ -10,11 +10,11 @@ I do freelancing job on Upwork, primarily jobs that requires scraping. Here's th
 
 Here's sample project I made that I used in one of my freelance job in Upwork:
 
-[Real State Web Scraping](https://www.loom.com/share/2fc6a1f55610427385e82f063d953ec4)
+[Real State Web Scraping - Video](https://www.loom.com/share/2fc6a1f55610427385e82f063d953ec4)
 
 Here's also a simple sample assignment when I applied to a freelance job:
 
-[Data Entry Sample](https://www.loom.com/share/8a5c45774a074dde9cc1b5c52218b154)
+[Data Entry Sample - Video](https://www.loom.com/share/8a5c45774a074dde9cc1b5c52218b154)
 
 You can use the [editor on GitHub](https://github.com/mynamesjep/mynamesjep.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
