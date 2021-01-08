@@ -24,7 +24,7 @@ You can use the [editor on GitHub](https://github.com/mynamesjep/mynamesjep.gith
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+markdown
 Syntax highlighted code block
 
 # Header 1
