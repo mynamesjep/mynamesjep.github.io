@@ -12,7 +12,7 @@ Here's sample project I made that I used in one of my freelance job in Upwork:
 
 [Real State Web Scraping - Video](https://www.loom.com/share/2fc6a1f55610427385e82f063d953ec4)<br />
 **Output**
-![image](https://github.com/mynamesjep/mynamesjep.github.io/blob/main/dub.png)
+![image](https://wallpapercave.com/wp/wp2394184.jpg)
 
 Here's also a simple sample assignment when I applied to a freelance job:
 
