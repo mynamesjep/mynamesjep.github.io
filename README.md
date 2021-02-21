@@ -19,5 +19,5 @@ Here's also a simple sample assignment when I applied to a freelance job:
 [Data Entry Sample - Video](https://www.loom.com/share/8a5c45774a074dde9cc1b5c52218b154)
 
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fbrentvollebregt%2Fhit-counter)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fmynamesjep.github.io%2F)
 
