@@ -17,3 +17,10 @@ Here's sample project I made that I used in one of my freelance job in Upwork:
 Here's also a simple sample assignment when I applied to a freelance job:
 
 [Data Entry Sample - Video](https://www.loom.com/share/8a5c45774a074dde9cc1b5c52218b154)
+
+
+
+<!-- Badge Code - Do Not Change The Code -->
+<a class="hitCounter" href="https://visitorshitcounter.com/" target="_blank" title="Hit counter" data-name="5f9375d75b4a441f2f349eadb6141bc7|5|ip|1|#ea5050|#ffffff|small|s-hit">Hit Counter</a><script>document.write("<script type='text/javascript' src='https://visitorshitcounter.com/js/hitCounter.js?v="+Date.now()+"'><\/script>");</script>
+<!-- Badge Code End Here -->
+
