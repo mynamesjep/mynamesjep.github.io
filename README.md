@@ -18,6 +18,8 @@ Here's also a simple sample assignment when I applied to a freelance job:
 
 [Data Entry Sample - Video](https://www.loom.com/share/8a5c45774a074dde9cc1b5c52218b154)
 
+My latest project is the assignment that is given to me by the company that I am applying for. The project involves data scraping from a website, data entry to a CRM application and E-mail sending. The project also required to create a custom activity using code written in MS Visual Studio. I have already submitted this project but there are still areas that I need to improve such as using REFramework. So this is basically still work in progress.
+
 
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fmynamesjep.github.io%2F)
 
